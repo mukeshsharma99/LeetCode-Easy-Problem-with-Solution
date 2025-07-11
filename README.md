@@ -8,4 +8,5 @@
 ## 21. Merge Two Sorted Lists
 ## 26. Remove Duplicates from Sorted Array
 ## 88. Merge Sorted Array 
+## 94. Binary Tree Inorder Traversal
   
